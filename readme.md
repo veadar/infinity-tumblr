@@ -10,7 +10,7 @@ Download hi-resolution photos from someone's tumblr and Show it by WebView.
 - Previous = →
 - Quit = command + Q
 
-##Screencast
+##Screenshot & Screencast
 
 <iframe name='quickcast' src='http://quick.as/embed/e4rf9r' scrolling='no' frameborder='0' width='100%' allowfullscreen></iframe><script>!function(){function n(){var n=document.getElementsByName('quickcast')
 for(var e in n){var t=n[e].offsetWidth
