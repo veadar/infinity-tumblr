@@ -12,10 +12,9 @@ Download hi-resolution photos from someone's tumblr and Show it by WebView.
 
 ##Screenshot & Screencast
 
-<iframe name='quickcast' src='http://quick.as/embed/e4rf9r' scrolling='no' frameborder='0' width='100%' allowfullscreen></iframe><script>!function(){function n(){var n=document.getElementsByName('quickcast')
-for(var e in n){var t=n[e].offsetWidth
-n[e].height=t/1.78+'px'}}n(),window.onresize=n,window.addEventListener('message',function(n){if(n.data.indexOf('//quick.as/') != -1)window.location.href=n.data},!1)}()
-</script>
+<a href="http://quick.as/e4rf9r"><img src="https://github.com/veadar/infinity-tumblr/raw/master/screenshot.png"></a>
+
+Click Screenshot to open <a href="http://quick.as/e4rf9r">Screencast page</a>.
 
 ##Download
 
